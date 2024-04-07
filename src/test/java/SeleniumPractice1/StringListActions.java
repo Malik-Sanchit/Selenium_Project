@@ -7,14 +7,14 @@ public class StringListActions {
 
 	public static void main(String[] args) {
 		 List<String> names = new ArrayList<>();
-	        names.add("Alice");
-	        names.add("Bob");
+	        names.add("sanchit");
+	        names.add("malik");
 	        names.add("Charlie");
-	        names.add("David");
-	        names.add("Emma");
-	        names.add("Frank");
-	        names.add("Grace");
-	        names.add("Henry");
+	        names.add("sam");
+	        names.add("peter");
+	        names.add("david");
+	        names.add("john");
+	        names.add("mike");
 	        names.add("Ivy");
 	        names.add("Jack");
 

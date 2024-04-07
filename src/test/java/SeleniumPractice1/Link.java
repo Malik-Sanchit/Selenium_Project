@@ -14,10 +14,10 @@ public class Link {
         // Navigate to the webpage
         driver.get("https://demoqa.com/links");
 
-        // Find all elements with the <a> tag using findElementsById
+      
         List<WebElement> links = driver.findElements(By.tagName("a"));
 
-        // Iterate through the list of links and print their text
+      
         for (WebElement link : links) {
             String linkText = link.getText();
             System.out.println(linkText);
